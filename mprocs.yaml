@@ -1,0 +1,3 @@
+procs:
+  front: "cd front && bun --bun vite dev"
+  convex: "bunx convex dev"

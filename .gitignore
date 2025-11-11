@@ -1,0 +1,5 @@
+.tanstack
+mprocs.log
+.env.local
+_generated
+node_modules
